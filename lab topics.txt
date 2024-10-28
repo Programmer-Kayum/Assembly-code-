@@ -1,0 +1,19 @@
+Write the assembly language and show output using EMU8086
+1.	Write an assembly language program for performing 16-bit multiplication.
+2.	Write an assembly language program to divide two numbers.
+3.	Write an assembly language program to find square of a number.
+4.	Write an assembly language program to find the largest number in an array of data.
+5.	Write an assembly language program to find the smallest number in an array of data
+6.	Write an assembly language program to convert a given binary to BCD.
+7.	Write an assembly language program to sort the set numbers in ascending order.
+8.	Write an assembly language program to move a block of data without overlap.
+9.	Write an assembly language program to transfer of a string in forward direction.
+10.	Write an assembly language program to multiply two 16-bit binary numbers to give a 32-bit result.
+11.	Write an assembly language program to find out the average two(max and low) temperatures.
+12.	Write an assembly language program to read a character from keyboard.
+13.	Write an assembly language program for moving a string from one location to another in memory.
+
+https://www.youtube.com/watch?v=W9G6JgrQZ5U&list=PL8mraTOYjX3yNe0h3NwvFLgObiG0QLXRQ&index=1
+
+https://emu8086-microprocessor-emulator.en.softonic.com/download
+
